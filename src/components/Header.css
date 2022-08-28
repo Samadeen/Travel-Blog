@@ -1,0 +1,17 @@
+header {
+  background-color: #f55a5a;
+  padding: 1rem;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+nav p {
+  color: cornsilk;
+  text-transform: uppercase;
+  font-weight: bold;
+}
