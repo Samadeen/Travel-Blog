@@ -1,0 +1,53 @@
+.content__body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  max-width: 70vw;
+  margin: 2.5rem auto 1rem;
+}
+
+a {
+  color: #918e9b;
+  font-size: 0.8rem;
+}
+
+small {
+  text-transform: uppercase;
+}
+
+.content__img img {
+  width: 10.8rem;
+  height: 13.5rem;
+  border-radius: 0.4rem;
+}
+
+.content__top,
+.content__location {
+  display: flex;
+  align-items: center;
+}
+
+.content__top {
+  gap: 1rem;
+}
+
+.content__location {
+  gap: 0.5rem;
+}
+
+.content__title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: 0.5rem 0 1.2rem;
+  color: #2b283a;
+}
+
+.content__date {
+  margin-bottom: 0.7rem;
+}
+
+.content__des {
+  color: #2b283a;
+  opacity: 0.8rem;
+}
